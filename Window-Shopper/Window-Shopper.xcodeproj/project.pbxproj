@@ -15,6 +15,7 @@
 		D9831F2023487D98007ACD4D /* Window_ShopperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9831F1F23487D98007ACD4D /* Window_ShopperTests.swift */; };
 		D9831F2B23487D99007ACD4D /* Window_ShopperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9831F2A23487D99007ACD4D /* Window_ShopperUITests.swift */; };
 		D9831F3C234887B2007ACD4D /* CurrencyTxtField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9831F3B234887B2007ACD4D /* CurrencyTxtField.swift */; };
+		D9FC91EA234914B50080147B /* Wage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9FC91E9234914B50080147B /* Wage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D9831F2A23487D99007ACD4D /* Window_ShopperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Window_ShopperUITests.swift; sourceTree = "<group>"; };
 		D9831F2C23487D99007ACD4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9831F3B234887B2007ACD4D /* CurrencyTxtField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyTxtField.swift; sourceTree = "<group>"; };
+		D9FC91E9234914B50080147B /* Wage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 		D9831F3A23487EB4007ACD4D /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				D9FC91E9234914B50080147B /* Wage.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9831F3C234887B2007ACD4D /* CurrencyTxtField.swift in Sources */,
+				D9FC91EA234914B50080147B /* Wage.swift in Sources */,
 				D9831F0D23487D96007ACD4D /* MainVC.swift in Sources */,
 				D9831F0B23487D96007ACD4D /* AppDelegate.swift in Sources */,
 			);
